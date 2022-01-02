@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Internship Project</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="mno">Mobile No.</string>
+    <string name="pswd">Password</string>
+    <string name="usrname">User Name</string>
+
+    <string name="log_in">Log In</string>
+    <string name="takemetosignup">Create a new Account!</string>
+
+    <string name="sign_up">Sign up</string>
+</resources>
